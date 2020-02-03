@@ -1,8 +1,3 @@
----
-output:
-  html_document: default
-  pdf_document: default
----
 # SPPf Application
 The Single Patch *Plasmodium falciparum* (SPPf) tool is disease modelling software that simulates  *Plasmodium falciparum* malaria transmission for a population of interest. The software allows the user to simulate health policies and intervention strategies, alone and in combination, to determine the impact on malaria incidence. 
 

@@ -1,0 +1,13 @@
+name: SPPF_prototype
+title: SPPF_prototype
+username:
+account: moru
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1023461
+bundleId: 2760474
+url: https://moru.shinyapps.io/SPPf_Prototype/
+when: 1580288775.79759
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: costs.csv|epi.csv|SPPF_App_Data.RData

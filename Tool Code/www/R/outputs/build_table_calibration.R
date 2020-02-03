@@ -1,0 +1,2 @@
+output$build_table_calibration <- renderDT(datatable(simul_baseline$baseline_calibration, rownames = FALSE, 
+                                                        style = "bootstrap", filter = "none", options = list(dom = 't')))

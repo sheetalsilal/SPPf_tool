@@ -1,0 +1,2 @@
+The Single Patch *Plasmodium falciparum* Application is a compartmental model that simulates  *Plasmodium falciparum* malaria transmission for a population of interest. The software allows the user to simulate health policies and intervention strategies, alone and in combination, to determine the impact on malaria incidence. 
+If you encounter any issues while using the software, please contact [Sheetal.Silal@uct.ac.za](sheetal.silal@uct.ac.za)

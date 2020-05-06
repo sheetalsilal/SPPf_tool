@@ -11,14 +11,20 @@ All models are simplifications of reality. Whilst every effort has been taken du
 
 The appropriate use of this tool/model and its output can contribute to effective policymaking, but misuse or misinterpretation of the output can mislead decision-making. Any decisions taken whilst using these tools are the responsibility of the user and no liability whatsoever will be taken by the developers/authors of the tool.
 
+
 All files in the repository are subject to the MIT licence. 
 In addition you are free to:
 Share — copy and redistribute the material in any medium or format
 Adapt — remix, transform, and build upon the material
 
+
 Under the following terms:
 Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+
+
 NonCommercial — You may not use the material for commercial purposes.
+
+
 ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
 
 
